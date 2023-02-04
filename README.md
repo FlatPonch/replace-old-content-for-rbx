@@ -12,6 +12,8 @@ Old Death sound(oof sound),Old Cursor(2013-2021),Some things are planned to be a
 # How to Replace
 step1:click Code and Download Zip
 
+<img src="https://raw.githubusercontent.com/FlatPonch/replace-old-content-for-rbx/main/Images/howtodownload.png" width="300">
+
 step2:Go to the folder where the Roblox Player is located
 In most cases:C:\Users\[EXAMPLEUSER]\AppData\Local\Roblox\Version\
 If you find "RobloxPlayerBeta.exe",it is the Roblox Player folder.
