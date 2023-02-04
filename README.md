@@ -18,9 +18,9 @@ If you find "RobloxPlayerBeta.exe",it is the Roblox Player folder.
 
 step3:Replace the "content" folder in the Zip file with the "content" folder in Roblox Player
 
-<img src="https://raw.githubusercontent.com/FlatPonch/replace-old-content-for-rbx/main/Images/howto1" width="300">
+<img src="https://raw.githubusercontent.com/FlatPonch/replace-old-content-for-rbx/main/Images/howto1.png" width="300">
 
-<img src="https://raw.githubusercontent.com/FlatPonch/replace-old-content-for-rbx/main/Images/howto2" width="300">
+<img src="https://raw.githubusercontent.com/FlatPonch/replace-old-content-for-rbx/main/Images/howto2.png" width="300">
 
 step4:Have Fun!
 
