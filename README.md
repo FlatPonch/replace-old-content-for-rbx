@@ -1,3 +1,11 @@
+### PLEASE READ
+
+This Repository has been Discontinued.
+use the Alternative.
+
+Bloxstrap:
+https://github.com/pizzaboxer/bloxstrap
+
 # replace-old-content-for-rbx
 This file replaces the Roblox content folder with the previous one.
 
